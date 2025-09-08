@@ -31,14 +31,14 @@ Expected output:
 
 📈 Example Output
 
-Model Başarımı:
-Accuracy: 0.9205
-F1 Score: 0.9203
+- Model Başarımı:
+- Accuracy: 0.9205
+- F1 Score: 0.9203
 
 - Rastgele 4 Görüntü Çifti Analizi:
 
 Görüntü Çifti 1:
-  Tahminler: 5 ve 4
-  Mutlak Fark: |5 - 4| = 1
-  Max Güven: 0.9987562356754321, 0.9990123456123456
-  Geo Güven: 0.0967345634563456, 0.1034546123456123
+  - Tahminler: 5 ve 4
+  - Mutlak Fark: |5 - 4| = 1
+  - Max Güven: 0.9987562356754321, 0.9990123456123456
+  - Geo Güven: 0.0967345634563456, 0.1034546123456123
