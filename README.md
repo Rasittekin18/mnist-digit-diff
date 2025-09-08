@@ -14,9 +14,9 @@ MNIST Digit Difference with Logistic Regression
 
 🛠️ Installation
 Clone this repository and install the required dependencies:
-git clone https://github.com/Rasittekin18/mnist-digit-diff.git
-cd mnist-digit-difference
-pip install -r requirements.txt
+- git clone https://github.com/Rasittekin18/mnist-digit-diff.git
+- cd mnist-digit-difference
+- pip install -r requirements.txt
 
 
 📊 Usage
